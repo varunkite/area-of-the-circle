@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 12 13:34:05 2022
-
-@author: Vishra9
-"""
-
+r=1.1
+a=3.141592653589793238*((1.1)**2)
+print("The area of the circle with radius 1.1 is:",a)
